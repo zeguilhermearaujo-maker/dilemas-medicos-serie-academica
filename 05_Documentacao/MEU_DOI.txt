@@ -1,0 +1,10 @@
+DOI: 10.5281/zenodo.18907078
+URL: https://doi.org/10.5281/zenodo.18907078
+Registro: https://zenodo.org/record/18907078
+Data de publicacao: 2026-03-08
+Autor: Jose Guilherme
+
+Este DOI e permanente e pode ser usado em:
+- Curriculo Lattes
+- Artigos academicos
+- Apresentacoes para orientadores
