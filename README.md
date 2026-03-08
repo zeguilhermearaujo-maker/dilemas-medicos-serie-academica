@@ -4,6 +4,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18907078.svg)](https://doi.org/10.5281/zenodo.18907078)
 
 **Autor**: Jose Guilherme Vasconcelos de Araujo
+**ORCID**: [0009-0003-9134-1985](https://orcid.org/0009-0003-9134-1985)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0003-9134-1985-green?logo=orcid)](https://orcid.org/0009-0003-9134-1985)
 **Data**: Marco 2026
 **DOI**: [10.5281/zenodo.18907078](https://doi.org/10.5281/zenodo.18907078)
 **Licenca**: CC BY-NC-ND 4.0
